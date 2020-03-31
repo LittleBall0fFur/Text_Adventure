@@ -1,5 +1,5 @@
 # Text_Adventure
-This was an assignment for my last period of my first year.
+This was an assignment for the last period of my first year.
 
 The text adventure was my first project with java. Also it was my first time working with inventories and different type off objects.
 I also learned the singleton concept for the first time.
